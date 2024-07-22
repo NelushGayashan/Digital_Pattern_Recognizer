@@ -1,0 +1,71 @@
+timestamp=1721659855749
+
+[~A]
+ModifyID=1
+Version=74
+
+[~MFT]
+0=35|0Digital_Pattern_Recognizer.mgf|9045|0
+1=5|1Digital_Pattern_Recognizer.mgf|4671|0
+3=4|3Digital_Pattern_Recognizer.mgf|1556|0
+
+[dpr]
+A/structure=21|../src/DPR.vhd|14|1*2704
+I=0*6035
+I/structure=0*7062
+M=11|2|vf5|1721659855702|../src/DPR.vhd|0*5654*0xe5b2f4ea66a54ff2d3dbc102f772af9342ddc1db|0*5964*0x23b75c12e3e89f2ef000564498faa8c2
+M/structure=21|2|vf5|1721659855704|../src/DPR.vhd|0*6312*0x238dc54aea2e9e3a0c56993f3cf96c7e1c2476b9|0*6978*0x20116f55b147878295aeff36dce7fc50
+R=../src/DPR.vhd|6
+Version=15.0.261.9132 (Windows64)|00000003789cd3f5370600015b00b0|394025605542f7c6a0834a18ce8f2443477face5842116904c2f20ea6173032a
+Version/structure=15.0.261.9132 (Windows64)|00000003789cd3f5370600015b00b0|eab8953fe0a98340e036eda18bd6d669520908b071c9b2c5bba6c893b05fa68006553a0b84c92a8db82982bb297a852e
+
+[end_p]
+A/behavioral=A/Behavioral 21|../src/end_p.vhd|12|1*1957
+BinW64/behavioral=3*1249
+I=0*4573
+I/behavioral=I/Behavioral 0*5185
+M=11|2|vf5|1721659855643|../src/end_p.vhd|0*4219*0x4b59bd43a90635e3da2085b721285fc20e7efbc7|0*4498*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=M/Behavioral 21|2|vf5|1721659855645|../src/end_p.vhd|0*4852*0xc279d156abcef3449d885ced87eadaf9290fd2ea|0*5096*0x20116f55b147878295aeff36dce7fc50
+R=../src/end_p.vhd|6
+Version=15.0.261.9132 (Windows64)|00000003789cd3f5370600015b00b0|16650577ce7e960105e12600ef729c759bd168a5b83d753773c335cb47ac491a
+Version/behavioral=15.0.261.9132 (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff47aedef066fa79f6a2285ee1bbedc908b
+
+[non_overlapping_moore_111]
+A/behavioral=A/Behavioral 21|../src/Non_Overlapping_Moore_111.vhd|11|1*820
+BinW64/behavioral=3*356
+I=0*2456
+I/behavioral=I/Behavioral 0*3816
+M=11|2|vf5|1721659855469|../src/Non_Overlapping_Moore_111.vhd|0*2020*0x1ed9f89c6d02ca5e739ae3ed259a506e65847205|0*2341*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=M/Behavioral 21|2|vf5|1721659855501|../src/Non_Overlapping_Moore_111.vhd|0*2673*0x24d0d0a8c82174f0bf44bf6908c59c9ab1d6bbed|0*3687*0x20116f55b147878295aeff36dce7fc50
+R=../src/Non_Overlapping_Moore_111.vhd|4
+Version=15.0.261.9132 (Windows64)|00000003789cd3f5370600015b00b0|5a720ccac40fb01ddc86ba212379790b5a4904f73cdb848edf57dcbe816431d18a98b782a3fe6b838d43780f53c95483022aa083f5ccd63c61805673bf6bc04f
+Version/behavioral=15.0.261.9132 (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff4b320f1f96e6e406bffe94f5d36a2036e
+
+[one_bit_magnitude_comparator]
+A/behavioral=A/Behavioral 21|../src/ONE_BIT_MAGNITUDE_COMPARATOR.vhd|12|1*0
+BinW64/behavioral=3*0
+I=0*723
+I/behavioral=I/Behavioral 0*1486
+M=11|2|vf5|1721659855241|../src/ONE_BIT_MAGNITUDE_COMPARATOR.vhd|0*226*0x3c61be02e968b0926e3201e112e74782f14886e3|0*602*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=M/Behavioral 21|2|vf5|1721659855264|../src/ONE_BIT_MAGNITUDE_COMPARATOR.vhd|0*1025*0x2fc404acddb50a7e3d46bdf410bb67d26c20c72c|0*1351*0x20116f55b147878295aeff36dce7fc50
+R=../src/ONE_BIT_MAGNITUDE_COMPARATOR.vhd|6
+Version=15.0.261.9132 (Windows64)|00000003789cd3f5370600015b00b0|fecc294d463cea3e2b2e321367d6f69df669a40e815c1a8991582707d55dd4727f407895fd245c5e347ef3b39012d79492f1da44fbaabca71058b3210b6ab1e8
+Version/behavioral=15.0.261.9132 (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff43dbff4fdb54d0373e2187fba13be4c68
+
+[tb_dpr]
+A/structural=21|../src/tb_DPR.vhd|7|1*4671
+BinW64/structural=3*1556
+I=0*7835
+I/structural=0*9045
+M=11|2|vf5|1721659855708|../src/tb_DPR.vhd|0*7601*0xaae0ef8f576673825d33e70d3238ec81009778ce|0*7758*0x23b75c12e3e89f2ef000564498faa8c2
+M/structural=21|2|vf5|1721659855710|../src/tb_DPR.vhd|0*8033*0x43acc8e14e186fd19e1d25307e2ac4c368a3eb49|0*8954*0x20116f55b147878295aeff36dce7fc50
+R=../src/tb_DPR.vhd|4
+Version=15.0.261.9132 (Windows64)|00000003789cd3f5370600015b00b0|b5c346d344ecd064b26169451d84bc7630655621fc4d8176d53673d829b93b3f
+Version/structural=15.0.261.9132 (Windows64)|00000003789cd3f5370600015b00b0|763af2576fce11abd6060bb6269849fa7b35399d4d6b9112dfc7987dc24af3eb2fdb7796edd3a6b3037c4bb731e03cc1
+
+[~U]
+dpr=DPR 11|0*5475|
+end_p=11|0*4044|
+non_overlapping_moore_111=Non_Overlapping_Moore_111 11|0*1799|
+one_bit_magnitude_comparator=ONE_BIT_MAGNITUDE_COMPARATOR 11|0*0|
+tb_dpr=tb_DPR 11|0*7483|

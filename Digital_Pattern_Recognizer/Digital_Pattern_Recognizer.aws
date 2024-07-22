@@ -1,0 +1,8 @@
+[Version]
+Version=15.0
+[Designs]
+Digital_Pattern_Recognizer=Digital_Pattern_Recognizer.adf
+[Settings]
+Active=Digital_Pattern_Recognizer
+[Expand]
+digital_pattern_recognizer=1

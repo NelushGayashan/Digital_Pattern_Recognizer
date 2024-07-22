@@ -1,0 +1,5 @@
+i<>.\src\ONE_BIT_MAGNITUDE_COMPARATOR.vhd
+i<>.\src\Non_Overlapping_Moore_111.vhd
+i<>.\src\end_p.vhd
+i<>.\src\DPR.vhd
+i<>.\src\tb_DPR.vhd

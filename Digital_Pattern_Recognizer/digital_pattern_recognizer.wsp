@@ -1,0 +1,24 @@
+[CACHESIMPLE|Aldec.SymbolsCommands.7]
+Built-in symbols=0
+Four_Bit_FulL_Adder=0
+Digital_Pattern_Recognizer=0
+[COMPILESTATUS|.\src\ONE_BIT_MAGNITUDE_COMPARATOR.vhd]
+FileTimeLow=1680909545
+FileTimeHigh=31120454
+Status=Compiled
+[COMPILESTATUS|.\src\Non_Overlapping_Moore_111.vhd]
+FileTimeLow=1855875145
+FileTimeHigh=31120454
+Status=Compiled
+[COMPILESTATUS|.\src\end_p.vhd]
+FileTimeLow=2018670254
+FileTimeHigh=31120454
+Status=Compiled
+[COMPILESTATUS|.\src\DPR.vhd]
+FileTimeLow=2208852712
+FileTimeHigh=31120454
+Status=Compiled
+[COMPILESTATUS|.\src\tb_DPR.vhd]
+FileTimeLow=2344520658
+FileTimeHigh=31120454
+Status=Compiled
